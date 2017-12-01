@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://baristamiss.com/index.html</loc>
+    <lastmod>2017-12-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://baristamiss.com/images/comp%20cc%20asset-crop-u94.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://baristamiss.com/images/menu_nov17-crop-u121.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://baristamiss.com/images/png%20image-71a394f12e57-1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://baristamiss.com/images/png%20image-fb3c5f75a1bf-1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://baristamiss.com/images/png%20image-8c87cc69d59a-1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://baristamiss.com/images/gillash.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>
